@@ -1,0 +1,9 @@
+### Django ###
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Adds virtual environment
+venv
